@@ -1,1 +1,1 @@
-![Image of Nittany Lion Mascot](C:\Users\melis\Pictures\Penn State\Nittany Lion.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
